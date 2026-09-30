@@ -43,3 +43,11 @@ The configuration extractor was tested on the following samples:
 The configuration extractor was tested on the following samples:
 
 *a2766b20b3d09b2eee3a9805cffef7228dc2eab1265a6fbc1e98f67105ae51b9*
+
+#### CNCMachineRMS:
+
+The configuration extractor was tested on the following samples:
+
+*91a22cf3154944897cbcaffc7d20d4596e972d280ee134197d41d8d8eefb0fe2*
+d111c8148d2226aa15aeca359c6dbd8d323b32992f55d9db0a9ca53e8e1f9e92*
+
