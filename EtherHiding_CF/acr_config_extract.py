@@ -12,8 +12,6 @@ HASH_CONST = 0x70736575
 IMG_BASE = 0x400000
 VERBOSE = False
 
-
-
 def load_pe(path):
     with open(path, 'rb') as f:
         data = f.read()
